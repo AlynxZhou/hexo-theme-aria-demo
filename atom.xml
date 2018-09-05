@@ -5,9 +5,9 @@
   <subtitle>Whisper to the World</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://sh.alynx.xyz/"/>
+  <link href="https://aria.ismyonly.one/"/>
   <updated>2018-08-29T04:55:51.361Z</updated>
-  <id>https://sh.alynx.xyz/</id>
+  <id>https://aria.ismyonly.one/</id>
   
   <author>
     <name>AlynxZhou</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>学习 OpenGL 1</title>
-    <link href="https://sh.alynx.xyz/posts/Learn-OpenGL-1/"/>
-    <id>https://sh.alynx.xyz/posts/Learn-OpenGL-1/</id>
+    <link href="https://aria.ismyonly.one/posts/Learn-OpenGL-1/"/>
+    <id>https://aria.ismyonly.one/posts/Learn-OpenGL-1/</id>
     <published>2018-08-28T00:21:50.000Z</published>
     <updated>2018-08-29T04:55:51.361Z</updated>
     
@@ -29,25 +29,25 @@
     
     </summary>
     
-      <category term="计算机" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-      <category term="编程" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="OpenGL" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/OpenGL/"/>
+      <category term="OpenGL" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/OpenGL/"/>
     
     
-      <category term="OpenGL" scheme="https://sh.alynx.xyz/tags/OpenGL/"/>
+      <category term="OpenGL" scheme="https://aria.ismyonly.one/tags/OpenGL/"/>
     
-      <category term="C" scheme="https://sh.alynx.xyz/tags/C/"/>
+      <category term="C" scheme="https://aria.ismyonly.one/tags/C/"/>
     
-      <category term="编程" scheme="https://sh.alynx.xyz/tags/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="https://aria.ismyonly.one/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Automata: A Story of Love and Lives</title>
-    <link href="https://sh.alynx.xyz/posts/Automata/"/>
-    <id>https://sh.alynx.xyz/posts/Automata/</id>
+    <link href="https://aria.ismyonly.one/posts/Automata/"/>
+    <id>https://aria.ismyonly.one/posts/Automata/</id>
     <published>2018-07-16T09:39:01.000Z</published>
     <updated>2018-08-29T05:01:29.795Z</updated>
     
@@ -58,21 +58,21 @@
     
     </summary>
     
-      <category term="游戏" scheme="https://sh.alynx.xyz/categories/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="https://aria.ismyonly.one/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-      <category term="游戏" scheme="https://sh.alynx.xyz/tags/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="https://aria.ismyonly.one/tags/%E6%B8%B8%E6%88%8F/"/>
     
-      <category term="尼尔：机械纪元" scheme="https://sh.alynx.xyz/tags/%E5%B0%BC%E5%B0%94%EF%BC%9A%E6%9C%BA%E6%A2%B0%E7%BA%AA%E5%85%83/"/>
+      <category term="尼尔：机械纪元" scheme="https://aria.ismyonly.one/tags/%E5%B0%BC%E5%B0%94%EF%BC%9A%E6%9C%BA%E6%A2%B0%E7%BA%AA%E5%85%83/"/>
     
-      <category term="NieR: Automata" scheme="https://sh.alynx.xyz/tags/NieR-Automata/"/>
+      <category term="NieR: Automata" scheme="https://aria.ismyonly.one/tags/NieR-Automata/"/>
     
   </entry>
   
   <entry>
     <title>在 VPS 上用 Nginx 和 HTTPS 部署 Hexo 生成的页面</title>
-    <link href="https://sh.alynx.xyz/posts/Hexo-on-VPS-with-Nginx-and-HTTPS/"/>
-    <id>https://sh.alynx.xyz/posts/Hexo-on-VPS-with-Nginx-and-HTTPS/</id>
+    <link href="https://aria.ismyonly.one/posts/Hexo-on-VPS-with-Nginx-and-HTTPS/"/>
+    <id>https://aria.ismyonly.one/posts/Hexo-on-VPS-with-Nginx-and-HTTPS/</id>
     <published>2018-06-04T08:21:17.000Z</published>
     <updated>2018-08-19T13:47:08.199Z</updated>
     
@@ -82,25 +82,25 @@
     
     </summary>
     
-      <category term="计算机" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-      <category term="网络" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/"/>
+      <category term="网络" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/"/>
     
-      <category term="网站" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/"/>
+      <category term="网站" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/"/>
     
-      <category term="Hexo" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/Hexo/"/>
+      <category term="Hexo" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/Hexo/"/>
     
     
-      <category term="Hexo" scheme="https://sh.alynx.xyz/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://aria.ismyonly.one/tags/Hexo/"/>
     
-      <category term="Nginx" scheme="https://sh.alynx.xyz/tags/Nginx/"/>
+      <category term="Nginx" scheme="https://aria.ismyonly.one/tags/Nginx/"/>
     
   </entry>
   
   <entry>
     <title>无尽的咏叹回荡于伽蓝之世界中 —— 有关 ARIA</title>
-    <link href="https://sh.alynx.xyz/posts/Endless-ARIA/"/>
-    <id>https://sh.alynx.xyz/posts/Endless-ARIA/</id>
+    <link href="https://aria.ismyonly.one/posts/Endless-ARIA/"/>
+    <id>https://aria.ismyonly.one/posts/Endless-ARIA/</id>
     <published>2018-05-05T15:49:53.000Z</published>
     <updated>2018-07-04T15:57:46.718Z</updated>
     
@@ -111,27 +111,27 @@
     
     </summary>
     
-      <category term="计算机" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-      <category term="网络" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/"/>
+      <category term="网络" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/"/>
     
-      <category term="网站" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/"/>
+      <category term="网站" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/"/>
     
-      <category term="Hexo" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/Hexo/"/>
+      <category term="Hexo" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/Hexo/"/>
     
-      <category term="ARIA" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/Hexo/ARIA/"/>
+      <category term="ARIA" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%AB%99/Hexo/ARIA/"/>
     
     
-      <category term="Hexo" scheme="https://sh.alynx.xyz/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://aria.ismyonly.one/tags/Hexo/"/>
     
-      <category term="ARIA" scheme="https://sh.alynx.xyz/tags/ARIA/"/>
+      <category term="ARIA" scheme="https://aria.ismyonly.one/tags/ARIA/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Pages 自定义域名启用 HTTPS（非 CloudFlare）</title>
-    <link href="https://sh.alynx.xyz/posts/Custom-GitHub-Pages-Domain-with-HTTPS/"/>
-    <id>https://sh.alynx.xyz/posts/Custom-GitHub-Pages-Domain-with-HTTPS/</id>
+    <link href="https://aria.ismyonly.one/posts/Custom-GitHub-Pages-Domain-with-HTTPS/"/>
+    <id>https://aria.ismyonly.one/posts/Custom-GitHub-Pages-Domain-with-HTTPS/</id>
     <published>2018-05-02T12:30:48.000Z</published>
     <updated>2018-05-05T17:02:32.536Z</updated>
     
@@ -142,25 +142,25 @@
     
     </summary>
     
-      <category term="网站" scheme="https://sh.alynx.xyz/categories/%E7%BD%91%E7%AB%99/"/>
+      <category term="网站" scheme="https://aria.ismyonly.one/categories/%E7%BD%91%E7%AB%99/"/>
     
-      <category term="加密" scheme="https://sh.alynx.xyz/categories/%E7%BD%91%E7%AB%99/%E5%8A%A0%E5%AF%86/"/>
+      <category term="加密" scheme="https://aria.ismyonly.one/categories/%E7%BD%91%E7%AB%99/%E5%8A%A0%E5%AF%86/"/>
     
-      <category term="GitHub Pages" scheme="https://sh.alynx.xyz/categories/%E7%BD%91%E7%AB%99/%E5%8A%A0%E5%AF%86/GitHub-Pages/"/>
+      <category term="GitHub Pages" scheme="https://aria.ismyonly.one/categories/%E7%BD%91%E7%AB%99/%E5%8A%A0%E5%AF%86/GitHub-Pages/"/>
     
     
-      <category term="网站" scheme="https://sh.alynx.xyz/tags/%E7%BD%91%E7%AB%99/"/>
+      <category term="网站" scheme="https://aria.ismyonly.one/tags/%E7%BD%91%E7%AB%99/"/>
     
-      <category term="加密" scheme="https://sh.alynx.xyz/tags/%E5%8A%A0%E5%AF%86/"/>
+      <category term="加密" scheme="https://aria.ismyonly.one/tags/%E5%8A%A0%E5%AF%86/"/>
     
-      <category term="GitHub Pages" scheme="https://sh.alynx.xyz/tags/GitHub-Pages/"/>
+      <category term="GitHub Pages" scheme="https://aria.ismyonly.one/tags/GitHub-Pages/"/>
     
   </entry>
   
   <entry>
     <title>写给新手的 Linux 手册 1</title>
-    <link href="https://sh.alynx.xyz/posts/Linux-Manual-for-Newbies-1/"/>
-    <id>https://sh.alynx.xyz/posts/Linux-Manual-for-Newbies-1/</id>
+    <link href="https://aria.ismyonly.one/posts/Linux-Manual-for-Newbies-1/"/>
+    <id>https://aria.ismyonly.one/posts/Linux-Manual-for-Newbies-1/</id>
     <published>2018-03-25T12:24:45.000Z</published>
     <updated>2018-05-05T17:02:32.106Z</updated>
     
@@ -171,21 +171,21 @@
     
     </summary>
     
-      <category term="计算机" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-      <category term="Linux" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/Linux/"/>
+      <category term="Linux" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/Linux/"/>
     
     
-      <category term="Linux" scheme="https://sh.alynx.xyz/tags/Linux/"/>
+      <category term="Linux" scheme="https://aria.ismyonly.one/tags/Linux/"/>
     
-      <category term="计算机" scheme="https://sh.alynx.xyz/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://aria.ismyonly.one/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>Kalafina, My Music Life</title>
-    <link href="https://sh.alynx.xyz/posts/Kalafina-My-Music-Life/"/>
-    <id>https://sh.alynx.xyz/posts/Kalafina-My-Music-Life/</id>
+    <link href="https://aria.ismyonly.one/posts/Kalafina-My-Music-Life/"/>
+    <id>https://aria.ismyonly.one/posts/Kalafina-My-Music-Life/</id>
     <published>2018-03-13T13:21:52.000Z</published>
     <updated>2018-05-07T08:46:37.334Z</updated>
     
@@ -195,21 +195,21 @@
     
     </summary>
     
-      <category term="音乐" scheme="https://sh.alynx.xyz/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="https://aria.ismyonly.one/categories/%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="Kalafina" scheme="https://sh.alynx.xyz/categories/%E9%9F%B3%E4%B9%90/Kalafina/"/>
+      <category term="Kalafina" scheme="https://aria.ismyonly.one/categories/%E9%9F%B3%E4%B9%90/Kalafina/"/>
     
     
-      <category term="音乐" scheme="https://sh.alynx.xyz/tags/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="https://aria.ismyonly.one/tags/%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="Kalafina" scheme="https://sh.alynx.xyz/tags/Kalafina/"/>
+      <category term="Kalafina" scheme="https://aria.ismyonly.one/tags/Kalafina/"/>
     
   </entry>
   
   <entry>
     <title>コラージュ（卫宫家今天的饭 ED）曲谱</title>
-    <link href="https://sh.alynx.xyz/posts/Emiya-Menu-ED/"/>
-    <id>https://sh.alynx.xyz/posts/Emiya-Menu-ED/</id>
+    <link href="https://aria.ismyonly.one/posts/Emiya-Menu-ED/"/>
+    <id>https://aria.ismyonly.one/posts/Emiya-Menu-ED/</id>
     <published>2018-02-04T04:18:45.000Z</published>
     <updated>2018-08-29T04:55:51.361Z</updated>
     
@@ -219,27 +219,27 @@
     
     </summary>
     
-      <category term="音乐" scheme="https://sh.alynx.xyz/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="https://aria.ismyonly.one/categories/%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="口琴" scheme="https://sh.alynx.xyz/categories/%E9%9F%B3%E4%B9%90/%E5%8F%A3%E7%90%B4/"/>
+      <category term="口琴" scheme="https://aria.ismyonly.one/categories/%E9%9F%B3%E4%B9%90/%E5%8F%A3%E7%90%B4/"/>
     
-      <category term="五线谱" scheme="https://sh.alynx.xyz/categories/%E9%9F%B3%E4%B9%90/%E5%8F%A3%E7%90%B4/%E4%BA%94%E7%BA%BF%E8%B0%B1/"/>
+      <category term="五线谱" scheme="https://aria.ismyonly.one/categories/%E9%9F%B3%E4%B9%90/%E5%8F%A3%E7%90%B4/%E4%BA%94%E7%BA%BF%E8%B0%B1/"/>
     
     
-      <category term="音乐" scheme="https://sh.alynx.xyz/tags/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="https://aria.ismyonly.one/tags/%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="口琴" scheme="https://sh.alynx.xyz/tags/%E5%8F%A3%E7%90%B4/"/>
+      <category term="口琴" scheme="https://aria.ismyonly.one/tags/%E5%8F%A3%E7%90%B4/"/>
     
-      <category term="卫宫家今天的饭" scheme="https://sh.alynx.xyz/tags/%E5%8D%AB%E5%AE%AB%E5%AE%B6%E4%BB%8A%E5%A4%A9%E7%9A%84%E9%A5%AD/"/>
+      <category term="卫宫家今天的饭" scheme="https://aria.ismyonly.one/tags/%E5%8D%AB%E5%AE%AB%E5%AE%B6%E4%BB%8A%E5%A4%A9%E7%9A%84%E9%A5%AD/"/>
     
-      <category term="Fate" scheme="https://sh.alynx.xyz/tags/Fate/"/>
+      <category term="Fate" scheme="https://aria.ismyonly.one/tags/Fate/"/>
     
   </entry>
   
   <entry>
     <title>CoffeeScript 的静态方法和静态变量（类方法和类变量）</title>
-    <link href="https://sh.alynx.xyz/posts/Coffee-Static-Varible-Method/"/>
-    <id>https://sh.alynx.xyz/posts/Coffee-Static-Varible-Method/</id>
+    <link href="https://aria.ismyonly.one/posts/Coffee-Static-Varible-Method/"/>
+    <id>https://aria.ismyonly.one/posts/Coffee-Static-Varible-Method/</id>
     <published>2018-01-26T11:04:33.000Z</published>
     <updated>2018-05-05T17:02:16.150Z</updated>
     
@@ -249,23 +249,23 @@
     
     </summary>
     
-      <category term="计算机" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-      <category term="编程" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="CoffeeScript" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/CoffeeScript/"/>
+      <category term="CoffeeScript" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/CoffeeScript/"/>
     
     
-      <category term="Code Life" scheme="https://sh.alynx.xyz/tags/Code-Life/"/>
+      <category term="Code Life" scheme="https://aria.ismyonly.one/tags/Code-Life/"/>
     
-      <category term="CoffeeScript" scheme="https://sh.alynx.xyz/tags/CoffeeScript/"/>
+      <category term="CoffeeScript" scheme="https://aria.ismyonly.one/tags/CoffeeScript/"/>
     
   </entry>
   
   <entry>
     <title>StackHarbor的2017尾记</title>
-    <link href="https://sh.alynx.xyz/posts/2017-Tail/"/>
-    <id>https://sh.alynx.xyz/posts/2017-Tail/</id>
+    <link href="https://aria.ismyonly.one/posts/2017-Tail/"/>
+    <id>https://aria.ismyonly.one/posts/2017-Tail/</id>
     <published>2017-12-31T14:18:57.000Z</published>
     <updated>2018-08-29T04:55:51.361Z</updated>
     
@@ -276,19 +276,19 @@
     
     </summary>
     
-      <category term="随记" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="生活" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="随记" scheme="https://sh.alynx.xyz/tags/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>忧从中来，不可断绝</title>
-    <link href="https://sh.alynx.xyz/posts/Song-And-Sadness/"/>
-    <id>https://sh.alynx.xyz/posts/Song-And-Sadness/</id>
+    <link href="https://aria.ismyonly.one/posts/Song-And-Sadness/"/>
+    <id>https://aria.ismyonly.one/posts/Song-And-Sadness/</id>
     <published>2017-11-11T13:18:51.000Z</published>
     <updated>2018-08-29T04:55:51.361Z</updated>
     
@@ -298,21 +298,21 @@
     
     </summary>
     
-      <category term="随记" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="时间的恶作剧" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
+      <category term="时间的恶作剧" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
     
     
-      <category term="随记" scheme="https://sh.alynx.xyz/tags/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/tags/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="时间的恶作剧" scheme="https://sh.alynx.xyz/tags/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
+      <category term="时间的恶作剧" scheme="https://aria.ismyonly.one/tags/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
     
   </entry>
   
   <entry>
     <title>冬天来了</title>
-    <link href="https://sh.alynx.xyz/posts/Winter-is-Coming/"/>
-    <id>https://sh.alynx.xyz/posts/Winter-is-Coming/</id>
+    <link href="https://aria.ismyonly.one/posts/Winter-is-Coming/"/>
+    <id>https://aria.ismyonly.one/posts/Winter-is-Coming/</id>
     <published>2017-10-29T13:54:41.000Z</published>
     <updated>2018-05-05T17:02:16.173Z</updated>
     
@@ -327,8 +327,8 @@
   
   <entry>
     <title>我生气了！！！</title>
-    <link href="https://sh.alynx.xyz/posts/I-Am-Angry/"/>
-    <id>https://sh.alynx.xyz/posts/I-Am-Angry/</id>
+    <link href="https://aria.ismyonly.one/posts/I-Am-Angry/"/>
+    <id>https://aria.ismyonly.one/posts/I-Am-Angry/</id>
     <published>2017-10-08T14:14:00.000Z</published>
     <updated>2018-08-29T04:55:51.361Z</updated>
     
@@ -341,21 +341,21 @@
     
     </summary>
     
-      <category term="随记" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="无题" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
+      <category term="无题" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
     
     
-      <category term="愤怒" scheme="https://sh.alynx.xyz/tags/%E6%84%A4%E6%80%92/"/>
+      <category term="愤怒" scheme="https://aria.ismyonly.one/tags/%E6%84%A4%E6%80%92/"/>
     
-      <category term="否定" scheme="https://sh.alynx.xyz/tags/%E5%90%A6%E5%AE%9A/"/>
+      <category term="否定" scheme="https://aria.ismyonly.one/tags/%E5%90%A6%E5%AE%9A/"/>
     
   </entry>
   
   <entry>
     <title>Be Brave</title>
-    <link href="https://sh.alynx.xyz/posts/Be-Brave/"/>
-    <id>https://sh.alynx.xyz/posts/Be-Brave/</id>
+    <link href="https://aria.ismyonly.one/posts/Be-Brave/"/>
+    <id>https://aria.ismyonly.one/posts/Be-Brave/</id>
     <published>2017-07-30T14:50:40.000Z</published>
     <updated>2018-08-29T04:55:51.361Z</updated>
     
@@ -365,21 +365,21 @@
     
     </summary>
     
-      <category term="随记" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="时间的恶作剧" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
+      <category term="时间的恶作剧" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
     
     
-      <category term="时间的恶作剧" scheme="https://sh.alynx.xyz/tags/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
+      <category term="时间的恶作剧" scheme="https://aria.ismyonly.one/tags/%E6%97%B6%E9%97%B4%E7%9A%84%E6%81%B6%E4%BD%9C%E5%89%A7/"/>
     
-      <category term="未说出口的话" scheme="https://sh.alynx.xyz/tags/%E6%9C%AA%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%E8%AF%9D/"/>
+      <category term="未说出口的话" scheme="https://aria.ismyonly.one/tags/%E6%9C%AA%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%E8%AF%9D/"/>
     
   </entry>
   
   <entry>
     <title>Dirty Words</title>
-    <link href="https://sh.alynx.xyz/posts/Dirty-Words/"/>
-    <id>https://sh.alynx.xyz/posts/Dirty-Words/</id>
+    <link href="https://aria.ismyonly.one/posts/Dirty-Words/"/>
+    <id>https://aria.ismyonly.one/posts/Dirty-Words/</id>
     <published>2017-07-01T10:42:09.000Z</published>
     <updated>2018-05-05T17:02:16.150Z</updated>
     
@@ -392,17 +392,17 @@
     
     </summary>
     
-      <category term="Dirty words" scheme="https://sh.alynx.xyz/categories/Dirty-words/"/>
+      <category term="Dirty words" scheme="https://aria.ismyonly.one/categories/Dirty-words/"/>
     
     
-      <category term="Dirty words" scheme="https://sh.alynx.xyz/tags/Dirty-words/"/>
+      <category term="Dirty words" scheme="https://aria.ismyonly.one/tags/Dirty-words/"/>
     
   </entry>
   
   <entry>
     <title>你的名字。</title>
-    <link href="https://sh.alynx.xyz/posts/Your-Name/"/>
-    <id>https://sh.alynx.xyz/posts/Your-Name/</id>
+    <link href="https://aria.ismyonly.one/posts/Your-Name/"/>
+    <id>https://aria.ismyonly.one/posts/Your-Name/</id>
     <published>2017-06-14T16:22:19.000Z</published>
     <updated>2018-05-05T17:02:16.176Z</updated>
     
@@ -413,21 +413,21 @@
     
     </summary>
     
-      <category term="电影" scheme="https://sh.alynx.xyz/categories/%E7%94%B5%E5%BD%B1/"/>
+      <category term="电影" scheme="https://aria.ismyonly.one/categories/%E7%94%B5%E5%BD%B1/"/>
     
-      <category term="动漫" scheme="https://sh.alynx.xyz/categories/%E7%94%B5%E5%BD%B1/%E5%8A%A8%E6%BC%AB/"/>
+      <category term="动漫" scheme="https://aria.ismyonly.one/categories/%E7%94%B5%E5%BD%B1/%E5%8A%A8%E6%BC%AB/"/>
     
     
-      <category term="电影" scheme="https://sh.alynx.xyz/tags/%E7%94%B5%E5%BD%B1/"/>
+      <category term="电影" scheme="https://aria.ismyonly.one/tags/%E7%94%B5%E5%BD%B1/"/>
     
-      <category term="动漫" scheme="https://sh.alynx.xyz/tags/%E5%8A%A8%E6%BC%AB/"/>
+      <category term="动漫" scheme="https://aria.ismyonly.one/tags/%E5%8A%A8%E6%BC%AB/"/>
     
   </entry>
   
   <entry>
     <title>Encrypted for the Update.</title>
-    <link href="https://sh.alynx.xyz/posts/Encrypt-for-the-Update/"/>
-    <id>https://sh.alynx.xyz/posts/Encrypt-for-the-Update/</id>
+    <link href="https://aria.ismyonly.one/posts/Encrypt-for-the-Update/"/>
+    <id>https://aria.ismyonly.one/posts/Encrypt-for-the-Update/</id>
     <published>2017-05-30T08:46:02.000Z</published>
     <updated>2018-05-05T17:02:16.150Z</updated>
     
@@ -437,21 +437,21 @@
     
     </summary>
     
-      <category term="随记" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="无题" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
+      <category term="无题" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
     
     
-      <category term="随记" scheme="https://sh.alynx.xyz/tags/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/tags/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="无题" scheme="https://sh.alynx.xyz/tags/%E6%97%A0%E9%A2%98/"/>
+      <category term="无题" scheme="https://aria.ismyonly.one/tags/%E6%97%A0%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>突然更新</title>
-    <link href="https://sh.alynx.xyz/posts/An-Update/"/>
-    <id>https://sh.alynx.xyz/posts/An-Update/</id>
+    <link href="https://aria.ismyonly.one/posts/An-Update/"/>
+    <id>https://aria.ismyonly.one/posts/An-Update/</id>
     <published>2017-05-30T07:14:51.000Z</published>
     <updated>2018-05-05T17:02:16.150Z</updated>
     
@@ -466,21 +466,21 @@
     
     </summary>
     
-      <category term="随记" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="无题" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
+      <category term="无题" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
     
     
-      <category term="随记" scheme="https://sh.alynx.xyz/tags/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/tags/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="无题" scheme="https://sh.alynx.xyz/tags/%E6%97%A0%E9%A2%98/"/>
+      <category term="无题" scheme="https://aria.ismyonly.one/tags/%E6%97%A0%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>灰色情人节</title>
-    <link href="https://sh.alynx.xyz/posts/Grey-Valentine-s-Day/"/>
-    <id>https://sh.alynx.xyz/posts/Grey-Valentine-s-Day/</id>
+    <link href="https://aria.ismyonly.one/posts/Grey-Valentine-s-Day/"/>
+    <id>https://aria.ismyonly.one/posts/Grey-Valentine-s-Day/</id>
     <published>2017-03-18T14:48:49.000Z</published>
     <updated>2018-05-05T17:02:16.150Z</updated>
     
@@ -490,19 +490,19 @@
     
     </summary>
     
-      <category term="随记" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/"/>
     
-      <category term="无题" scheme="https://sh.alynx.xyz/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
+      <category term="无题" scheme="https://aria.ismyonly.one/categories/%E9%9A%8F%E8%AE%B0/%E6%97%A0%E9%A2%98/"/>
     
     
-      <category term="随记" scheme="https://sh.alynx.xyz/tags/%E9%9A%8F%E8%AE%B0/"/>
+      <category term="随记" scheme="https://aria.ismyonly.one/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>使用GDB进行简单的C语言程序调试</title>
-    <link href="https://sh.alynx.xyz/posts/Using-Gdb/"/>
-    <id>https://sh.alynx.xyz/posts/Using-Gdb/</id>
+    <link href="https://aria.ismyonly.one/posts/Using-Gdb/"/>
+    <id>https://aria.ismyonly.one/posts/Using-Gdb/</id>
     <published>2017-03-15T11:24:33.000Z</published>
     <updated>2018-05-05T17:02:16.173Z</updated>
     
@@ -512,16 +512,16 @@
     
     </summary>
     
-      <category term="计算机" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
-      <category term="编程" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="C语言" scheme="https://sh.alynx.xyz/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/C%E8%AF%AD%E8%A8%80/"/>
+      <category term="C语言" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BC%96%E7%A8%8B/C%E8%AF%AD%E8%A8%80/"/>
     
     
-      <category term="C语言" scheme="https://sh.alynx.xyz/tags/C%E8%AF%AD%E8%A8%80/"/>
+      <category term="C语言" scheme="https://aria.ismyonly.one/tags/C%E8%AF%AD%E8%A8%80/"/>
     
-      <category term="GDB" scheme="https://sh.alynx.xyz/tags/GDB/"/>
+      <category term="GDB" scheme="https://aria.ismyonly.one/tags/GDB/"/>
     
   </entry>
   
