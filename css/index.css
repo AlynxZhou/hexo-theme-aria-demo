@@ -648,7 +648,7 @@ figure table tbody tr td:nth-child(2n) {
 }
 figure table tbody tr td.gutter {
   text-align: right;
-  padding-right: 0.5em;
+  padding: 0 0.5em;
   border-right: 0.1em dotted #ccc;
 }
 figure table tbody tr td pre {
@@ -659,7 +659,7 @@ figure table tbody tr td pre {
   margin: 0;
 }
 figure table tbody tr td pre code.text {
-  padding-left: 0.5em;
+  padding: 0 0.5em;
 }
 blockquote {
   margin: 1em 0;
