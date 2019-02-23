@@ -70,7 +70,7 @@
   text-align: center;
   font-size: 1em;
 }
-.info .site-count div {
+.info .site-count div.count-block {
   -webkit-box-flex: 1;
   -moz-box-flex: 1;
   -o-box-flex: 1;
@@ -78,17 +78,14 @@
   -webkit-flex: 1 0 auto;
   -ms-flex: 1 0 auto;
   flex: 1 0 auto;
+  border-left: 0.05em #666 solid;
+  border-right: 0.05em #666 solid;
 }
-.info .site-count .site-count-divider {
-  -webkit-box-flex: 0;
-  -moz-box-flex: 0;
-  -o-box-flex: 0;
-  box-flex: 0;
-  -webkit-flex: none;
-  -ms-flex: none;
-  flex: none;
-  line-height: 1.5em;
-  font-size: 2em;
+.info .site-count div.count-block:first-child {
+  border-left: none;
+}
+.info .site-count div.count-block:last-child {
+  border-right: none;
 }
 .info .site-count .site-count-title {
   margin: 0;
