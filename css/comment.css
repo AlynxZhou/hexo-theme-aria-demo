@@ -40,3 +40,6 @@
   background: #ff2a2a;
   border: 0.1em solid #f5c6cb;
 }
+.comments .vcomments {
+  margin: 1em 2em;
+}
