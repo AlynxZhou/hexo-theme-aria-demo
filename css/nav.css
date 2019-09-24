@@ -41,7 +41,7 @@
 }
 .nav ul li a:hover {
   color: #fff;
-  background: #252525;
+  background: $color-nav-hover-font;
 }
 .nav ul li a:active {
   top: 0;
@@ -55,7 +55,7 @@
   font-size: 2em;
   position: relative;
   cursor: pointer;
-  color: #ddd;
+  color: $color-nav-link;
   display: none;
   width: 100%;
   text-align: center;
@@ -83,6 +83,6 @@
   }
   .nav ul li a:hover {
     color: #fff;
-    background: #252525;
+    background: $color-nav-hover-font;
   }
 }

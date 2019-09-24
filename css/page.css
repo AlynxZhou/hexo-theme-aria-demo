@@ -37,7 +37,7 @@
 }
 .comments .commentjs .button {
   padding: 0.3em 1em;
-  background: #ff2a2a;
+  background: #9f1313;
   border: 0.1em solid #f5c6cb;
 }
 .comments .vcomments {
@@ -61,7 +61,7 @@
   padding: 1em 0;
   display: block;
   text-align: center;
-  color: #666;
+  color: $color-link;
 }
 .page .pagination .page-number,
 .page .pagination .extend {
@@ -83,7 +83,7 @@
 }
 .page .pagination .page-number.current,
 .page .pagination .extend.current {
-  color: #36e;
+  color: $color-link-hover;
   border-bottom: 0.15em solid #36e;
   border-top: 0.07em solid #36e;
 }

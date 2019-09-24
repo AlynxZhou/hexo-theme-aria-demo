@@ -49,12 +49,18 @@
     <link href="https://aria.ismyonly.one/posts/Automata/"/>
     <id>https://aria.ismyonly.one/posts/Automata/</id>
     <published>2018-07-16T09:39:01.000Z</published>
-    <updated>2018-08-29T05:01:29.795Z</updated>
+    <updated>2019-05-16T03:10:06.101Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/posts/Automata/Automata.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;centerquote&quot;&gt;我没有办法评价这款游戏&lt;br&gt;因为我觉得我被结结实实地折腾了一回&lt;/blockquote&gt;
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/posts/Automata/Automata.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote
+        
+      
     
     </summary>
     
@@ -176,9 +182,9 @@
       <category term="Linux" scheme="https://aria.ismyonly.one/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/Linux/"/>
     
     
-      <category term="Linux" scheme="https://aria.ismyonly.one/tags/Linux/"/>
-    
       <category term="计算机" scheme="https://aria.ismyonly.one/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="Linux" scheme="https://aria.ismyonly.one/tags/Linux/"/>
     
   </entry>
   
